@@ -1,0 +1,37 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\orders\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Игорь\Desktop\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Игорь\Desktop\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Игорь\Desktop\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Игорь\Desktop\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+D:\Новая папка\calculator\calculator\bin\Debug\calculator.exe.config
+D:\Новая папка\calculator\calculator\obj\Debug\calculator.exe
+D:\Новая папка\calculator\calculator\obj\Debug\calculator.pdb
+D:\Новая папка\calculator\calculator\bin\Debug\calculator.exe
+D:\Новая папка\calculator\calculator\bin\Debug\calculator.pdb
+D:\Новая папка\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\Новая папка\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\Новая папка\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\Новая папка\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\Виктория\trpo\calculator\bin\Debug\calculator.exe.config
+C:\Users\Виктория\trpo\calculator\bin\Debug\calculator.exe
+C:\Users\Виктория\trpo\calculator\bin\Debug\calculator.pdb
+C:\Users\Виктория\trpo\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\trpo\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Виктория\trpo\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Виктория\trpo\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\Виктория\trpo\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\trpo\calculator\obj\Debug\calculator.exe
+C:\Users\Виктория\trpo\calculator\obj\Debug\calculator.pdb

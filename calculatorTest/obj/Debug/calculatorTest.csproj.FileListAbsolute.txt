@@ -1,0 +1,20 @@
+D:\Новая папка\calculator\calculatorTest\bin\Debug\calculatorTest.dll
+D:\Новая папка\calculator\calculatorTest\bin\Debug\calculatorTest.pdb
+D:\Новая папка\calculator\calculatorTest\bin\Debug\calculator.exe
+D:\Новая папка\calculator\calculatorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Новая папка\calculator\calculatorTest\bin\Debug\calculator.pdb
+D:\Новая папка\calculator\calculatorTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Новая папка\calculator\calculatorTest\obj\Debug\calculatorTest.csprojResolveAssemblyReference.cache
+D:\Новая папка\calculator\calculatorTest\obj\Debug\calculatorTest.dll
+D:\Новая папка\calculator\calculatorTest\obj\Debug\calculatorTest.pdb
+C:\Users\Виктория\trpo\calculatorTest\bin\Debug\calculatorTest.dll
+C:\Users\Виктория\trpo\calculatorTest\bin\Debug\calculatorTest.pdb
+C:\Users\Виктория\trpo\calculatorTest\bin\Debug\calculator.exe
+C:\Users\Виктория\trpo\calculatorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Виктория\trpo\calculatorTest\bin\Debug\calculator.pdb
+C:\Users\Виктория\trpo\calculatorTest\bin\Debug\calculator.exe.config
+C:\Users\Виктория\trpo\calculatorTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Виктория\trpo\calculatorTest\obj\Debug\calculatorTest.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\trpo\calculatorTest\obj\Debug\calculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\trpo\calculatorTest\obj\Debug\calculatorTest.dll
+C:\Users\Виктория\trpo\calculatorTest\obj\Debug\calculatorTest.pdb
