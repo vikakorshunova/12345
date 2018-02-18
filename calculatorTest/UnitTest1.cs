@@ -30,8 +30,18 @@ namespace calculator.Tests
         {
             Calc calc = new Calc();
             calc.Put_A(4);
-            double b= calc.Division(2);
+            double b = calc.Division(2);
             Assert.AreEqual(b, 2);
+        }
+
+        [TestMethod()]
+        public void DivisionTest2()
+        {
+            Calc calc = new Calc();
+            calc.Put_A(4);
+            double b = calc.Division(0);
+            Console.WriteLine("Na nol' delit' nel'zya!!!");
+            Assert.Fail();
         }
 
         [TestMethod()]

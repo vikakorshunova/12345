@@ -18,3 +18,14 @@ C:\Users\Виктория\trpo\calculatorTest\obj\Debug\calculatorTest.csprojRes
 C:\Users\Виктория\trpo\calculatorTest\obj\Debug\calculatorTest.csproj.CoreCompileInputs.cache
 C:\Users\Виктория\trpo\calculatorTest\obj\Debug\calculatorTest.dll
 C:\Users\Виктория\trpo\calculatorTest\obj\Debug\calculatorTest.pdb
+C:\Users\Виктория\пудов\1234\calculatorTest\bin\Debug\calculatorTest.dll
+C:\Users\Виктория\пудов\1234\calculatorTest\bin\Debug\calculatorTest.pdb
+C:\Users\Виктория\пудов\1234\calculatorTest\bin\Debug\calculator.exe
+C:\Users\Виктория\пудов\1234\calculatorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Виктория\пудов\1234\calculatorTest\bin\Debug\calculator.pdb
+C:\Users\Виктория\пудов\1234\calculatorTest\bin\Debug\calculator.exe.config
+C:\Users\Виктория\пудов\1234\calculatorTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Виктория\пудов\1234\calculatorTest\obj\Debug\calculatorTest.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\пудов\1234\calculatorTest\obj\Debug\calculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\пудов\1234\calculatorTest\obj\Debug\calculatorTest.dll
+C:\Users\Виктория\пудов\1234\calculatorTest\obj\Debug\calculatorTest.pdb
