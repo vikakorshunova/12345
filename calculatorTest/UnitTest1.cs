@@ -72,15 +72,7 @@ namespace calculator.Tests
             Assert.AreEqual(b, 4);
         }
 
-        [TestMethod()]
-        public void DivisionTest1()
-        {
-            Calc calc = new Calc();
-            calc.Put_A(4);
-            double b = calc.Division(0);
-            Assert.AreNotSame(b, 0);
-        }
-
+       
         [TestMethod()]
         public void SqrtXTest()
         {

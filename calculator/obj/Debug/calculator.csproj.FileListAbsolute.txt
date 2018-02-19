@@ -35,3 +35,13 @@ C:\Users\Виктория\trpo\calculator\obj\Debug\calculator.csproj.GenerateRe
 C:\Users\Виктория\trpo\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
 C:\Users\Виктория\trpo\calculator\obj\Debug\calculator.exe
 C:\Users\Виктория\trpo\calculator\obj\Debug\calculator.pdb
+C:\Users\Виктория\пудов\1234\calculator\bin\Debug\calculator.exe.config
+C:\Users\Виктория\пудов\1234\calculator\bin\Debug\calculator.exe
+C:\Users\Виктория\пудов\1234\calculator\bin\Debug\calculator.pdb
+C:\Users\Виктория\пудов\1234\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\пудов\1234\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Виктория\пудов\1234\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Виктория\пудов\1234\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\Виктория\пудов\1234\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\пудов\1234\calculator\obj\Debug\calculator.exe
+C:\Users\Виктория\пудов\1234\calculator\obj\Debug\calculator.pdb

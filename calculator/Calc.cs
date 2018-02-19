@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
 
 namespace calculator
 {
@@ -28,7 +32,11 @@ namespace calculator
 
         public double Division(double b)
         {
-            return a / b;
+            if (b == 0) { return 0; }
+            else
+            {
+                return a / b;
+            }
         }
 
         public double Sum(double b)
