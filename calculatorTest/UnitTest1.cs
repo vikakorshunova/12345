@@ -40,7 +40,7 @@ namespace calculator.Tests
             Calc calc = new Calc();
             calc.Put_A(4);
             double b = calc.Division(0);
-            Console.WriteLine("Na nol' delit' nel'zya!!!");
+            Console.WriteLine("Ошибка!Деление на ноль!");
             Assert.Fail();
         }
 
