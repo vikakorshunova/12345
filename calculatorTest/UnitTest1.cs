@@ -44,7 +44,7 @@ namespace calculator.Tests
             Assert.Fail();
         }
 
-       /* [TestMethod()]
+        [TestMethod()]
         public void MultiplicationTest()
         {
             Calc calc = new Calc();
@@ -52,7 +52,7 @@ namespace calculator.Tests
             double b = calc.Multiplication(7);
             Assert.AreEqual(b, 49);
 
-        }*/
+        }
 
         [TestMethod()]
         public void SqrtTest()
